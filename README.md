@@ -1,5 +1,5 @@
 # docker-minecraft-alpine
-Lightweight Automated build for Minecraft's Craftbukkit
+Lightweight Automated build for Minecraft's Craftbukkit that runs on AWS free tier.
 
 On an AWS Free Tier:
 
